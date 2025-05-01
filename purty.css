@@ -54,7 +54,7 @@ body {
   flex-grow: 1;
   grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
   grid-template-columns: 1fr;
-  min-height: 4438px;
+  min-height: 8902px;
 }
 
 /* Works Cited
@@ -63,7 +63,7 @@ body {
 2 “ArcelorMittal Cleveland Makes Steel, Here’s How */
 .works-cite-148fd7d62aaf {
   width: 100%;
-  height: 2229px;
+  height: 4359px;
   flex-shrink: 0;
 }
 .works-cite-148fd7d62aaf .root-0 {
@@ -94,14 +94,14 @@ body {
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 27px;
+  font-size: 16px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 0, 0, 1);
   text-decoration: none;
   letter-spacing: 0px;
   font-family: "Helvetica";
   font-style: normal;
-  font-weight: 700;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-1 {
   font-size: 0;
@@ -116,7 +116,7 @@ body {
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  font-size: 16px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 0, 0, 1);
   text-decoration: none;
@@ -159,7 +159,7 @@ body {
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  font-size: 16px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 0, 0, 1);
   text-decoration: none;
@@ -202,7 +202,7 @@ body {
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  font-size: 16px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 0, 0, 1);
   text-decoration: none;
@@ -245,7 +245,7 @@ body {
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  font-size: 16px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 0, 0, 1);
   text-decoration: none;
@@ -288,7 +288,7 @@ body {
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  font-size: 16px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 0, 0, 1);
   text-decoration: none;
@@ -331,7 +331,7 @@ body {
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  font-size: 16px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 0, 0, 1);
   text-decoration: none;
@@ -374,7 +374,7 @@ body {
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  font-size: 16px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 0, 0, 1);
   text-decoration: none;
@@ -390,19 +390,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-14-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-15 {
   font-size: 0;
@@ -411,20 +412,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-15-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-16 {
   font-size: 0;
@@ -433,19 +433,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-16-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-17 {
   font-size: 0;
@@ -454,20 +455,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-17-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-18 {
   font-size: 0;
@@ -476,19 +476,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-18-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-19 {
   font-size: 0;
@@ -497,20 +498,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-19-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-20 {
   font-size: 0;
@@ -519,19 +519,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-20-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-21 {
   font-size: 0;
@@ -540,20 +541,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-21-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-22 {
   font-size: 0;
@@ -562,19 +562,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-22-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-23 {
   font-size: 0;
@@ -583,20 +584,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-23-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-24 {
   font-size: 0;
@@ -605,19 +605,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-24-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-25 {
   font-size: 0;
@@ -626,20 +627,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-25-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-26 {
   font-size: 0;
@@ -648,19 +648,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-26-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-27 {
   font-size: 0;
@@ -669,20 +670,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-27-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-28 {
   font-size: 0;
@@ -691,19 +691,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-28-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-29 {
   font-size: 0;
@@ -712,20 +713,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-29-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-30 {
   font-size: 0;
@@ -734,19 +734,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-30-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-31 {
   font-size: 0;
@@ -755,20 +756,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-31-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-32 {
   font-size: 0;
@@ -777,19 +777,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-32-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-33 {
   font-size: 0;
@@ -798,20 +799,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-33-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-34 {
   font-size: 0;
@@ -820,19 +820,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-34-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-35 {
   font-size: 0;
@@ -841,20 +842,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-35-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-36 {
   font-size: 0;
@@ -863,19 +863,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-36-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-37 {
   font-size: 0;
@@ -884,20 +885,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-37-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-38 {
   font-size: 0;
@@ -906,19 +906,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-38-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-39 {
   font-size: 0;
@@ -927,20 +928,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-39-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-40 {
   font-size: 0;
@@ -949,19 +949,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-40-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-41 {
   font-size: 0;
@@ -970,20 +971,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-41-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-42 {
   font-size: 0;
@@ -992,19 +992,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-42-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-43 {
   font-size: 0;
@@ -1013,20 +1014,19 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-43-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
+  
+  
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  
   text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-44 {
   font-size: 0;
@@ -1035,19 +1035,20 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-44-text-0 {
-  
-  
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  
+  font-size: 16px;
   text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-45 {
   font-size: 0;
@@ -1056,28 +1057,6 @@ body {
   text-align: left;
 }
 .works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-45-text-0 {
-  color: rgba(0, 0, 0, 1);
-  text-transform: none;
-  
-  line-break: auto;
-  overflow-wrap: initial;
-  white-space: break-spaces;
-  font-size: 15px;
-  text-rendering: geometricPrecision;
-  caret-color: rgba(0, 0, 0, 1);
-  text-decoration: none;
-  letter-spacing: 0px;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
-}
-.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-46 {
-  font-size: 0;
-  line-height: 1.2;
-  margin: 0;
-  text-align: left;
-}
-.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-46-text-0 {
   
   
   
@@ -1092,20 +1071,20 @@ body {
   
   
 }
-.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-47 {
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-46 {
   font-size: 0;
   line-height: 1.2;
   margin: 0;
   text-align: left;
 }
-.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-47-text-0 {
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-46-text-0 {
   color: rgba(0, 0, 0, 1);
   text-transform: none;
   
   line-break: auto;
   overflow-wrap: initial;
   white-space: break-spaces;
-  font-size: 15px;
+  font-size: 16px;
   text-rendering: geometricPrecision;
   caret-color: rgba(0, 0, 0, 1);
   text-decoration: none;
@@ -1114,21 +1093,948 @@ body {
   font-style: normal;
   font-weight: 400;
 }
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-47 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-47-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-48 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-48-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-49 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-49-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-50 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-50-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-51 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-51-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-52 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-52-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-53 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-53-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-54 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-54-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-55 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-55-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-56 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-56-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-57 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-57-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-58 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-58-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-59 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-59-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-60 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-60-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-61 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-61-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-62 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-62-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-63 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-63-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-64 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-64-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-65 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-65-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-66 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-66-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-67 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-67-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-68 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-68-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-69 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-69-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-70 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-70-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-71 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-71-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-72 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-72-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-73 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-73-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-74 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-74-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-75 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-75-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-76 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-76-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-77 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-77-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-78 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-78-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-79 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-79-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-80 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-80-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-81 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-81-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-82 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-82-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-83 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-83-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-84 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-84-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-85 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-85-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-86 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-86-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-87 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-87-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-88 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-88-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-89 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.works-cite-148fd7d62aaf .root-0-paragraph-set-0-paragraph-89-text-0 {
+  
+  
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  
+  text-rendering: geometricPrecision;
+  caret-color: black;
+  
+  font-family: "sourcesanspro";
+  
+  
+}
 
-/* The Columbus Street Bridge War There exists a longstanding cultural rivalry between the two sides of the city, a conflict which may stem from historical conflicts in the area. In 1836, the City of Cleveland existed only on the east side of the river. The west side was a different */
-.the-columb-148f463fc54a {
+/* 1927
+	From the 1860s to the 1920s, Cleveland's population increased from around 40,000 to almost a million, making it one of the largest cities in the United States at the time. Cleveland’s transportation network helped it grow, with railroads and ships connecting it to new marke */
+.1927-from-148f463fc54a {
   width: 100%;
-  height: 695px;
+  height: 282px;
   flex-shrink: 0;
 }
-.the-columb-148f463fc54a .root-0 {
+.1927-from-148f463fc54a .root-0 {
   
   
   display: flex;
   white-space: break-spaces;
   align-items: flex-start;
 }
-.the-columb-148f463fc54a .root-0-paragraph-set-0 {
+.1927-from-148f463fc54a .root-0-paragraph-set-0 {
   display: inline-flex;
   flex-direction: column;
   justify-content: inherit;
@@ -1136,13 +2042,13 @@ body {
   margin-right: 1px;
   vertical-align: top;
 }
-.the-columb-148f463fc54a .root-0-paragraph-set-0-paragraph-0 {
+.1927-from-148f463fc54a .root-0-paragraph-set-0-paragraph-0 {
   font-size: 0;
   line-height: 1.2;
   margin: 0;
   text-align: left;
 }
-.the-columb-148f463fc54a .root-0-paragraph-set-0-paragraph-0-text-0 {
+.1927-from-148f463fc54a .root-0-paragraph-set-0-paragraph-0-text-0 {
   color: rgba(10, 6, 5, 1);
   text-transform: none;
   
@@ -1158,7 +2064,507 @@ body {
   font-style: normal;
   font-weight: 700;
 }
-.the-columb-148f463fc54a .root-0-paragraph-set-0-paragraph-0-text-1 {
+.1927-from-148f463fc54a .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.1927-from-148f463fc54a .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+}
+.1927-from-148f463fc54a .root-0-paragraph-set-0-paragraph-1-text-1 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* 1852
+	Cleveland was a new and developing city during this time. The population increased from 6,000 people in 1940 to 17,000 in 1950.  [40] Commerce was a major part of the city's economy, with canals bringing in produce and other goods. Construction of railroads around this time */
+.1852-clev-1d6295e7ba76 {
+  width: 100%;
+  height: 296px;
+  flex-shrink: 0;
+}
+.1852-clev-1d6295e7ba76 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.1852-clev-1d6295e7ba76 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.1852-clev-1d6295e7ba76 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.1852-clev-1d6295e7ba76 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 27px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+}
+.1852-clev-1d6295e7ba76 .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.1852-clev-1d6295e7ba76 .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 27px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+}
+.1852-clev-1d6295e7ba76 .root-0-paragraph-set-0-paragraph-1-text-1 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* The Recession
+	The largest economic downturn, which took place from 2007-2009, was called the Great Recession. This recession caused financial problems for many Americans. It was the result of decreased interest rates that were set in stone by the Federal Government [25] to comba */
+.the-recess-1d6297178978 {
+  width: 100%;
+  height: 263px;
+  flex-shrink: 0;
+}
+.the-recess-1d6297178978 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.the-recess-1d6297178978 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.the-recess-1d6297178978 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.the-recess-1d6297178978 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 27px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+}
+.the-recess-1d6297178978 .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.the-recess-1d6297178978 .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Renting
+	Renting in “Rust Belt” cities such as Cleveland has historically harbored some challenges, with Cleveland and nearby cities generally having older, poorly maintained rental housing stock. Some challenges faced by rental properties include  inconsistent or poor long term  */
+.renting-r-1d6297b92045 {
+  width: 100%;
+  height: 257px;
+  flex-shrink: 0;
+}
+.renting-r-1d6297b92045 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.renting-r-1d6297b92045 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.renting-r-1d6297b92045 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.renting-r-1d6297b92045 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 27px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+}
+.renting-r-1d6297b92045 .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.renting-r-1d6297b92045 .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 27px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+}
+.renting-r-1d6297b92045 .root-0-paragraph-set-0-paragraph-1-text-1 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Cleveland’s Industrial Valley
+	The Cleveland area was first settled in the 1700s. Initially, there were some settlements on the northern parts of the industrial valley, but  it was quickly recognized as an unattractive residential area due to its marshy, insect-ridden conditions. */
+.cleveland-1d629899a09e {
+  width: 100%;
+  height: 962px;
+  flex-shrink: 0;
+}
+.cleveland-1d629899a09e .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.cleveland-1d629899a09e .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.cleveland-1d629899a09e .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.cleveland-1d629899a09e .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 27px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+}
+.cleveland-1d629899a09e .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.cleveland-1d629899a09e .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 27px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+}
+.cleveland-1d629899a09e .root-0-paragraph-set-0-paragraph-1-text-1 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.cleveland-1d629899a09e .root-0-paragraph-set-0-paragraph-2 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.cleveland-1d629899a09e .root-0-paragraph-set-0-paragraph-2-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+.cleveland-1d629899a09e .root-0-paragraph-set-0-paragraph-3 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.cleveland-1d629899a09e .root-0-paragraph-set-0-paragraph-3-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 16px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Information From Our Board */
+.informatio-1d62992fa8a6 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.informatio-1d62992fa8a6 {
+  position: relative;
+  width: 100%;
+  height: 65px;
+  flex-shrink: 0;
+}
+.informatio-1d62992fa8a6 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.informatio-1d62992fa8a6 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.informatio-1d62992fa8a6 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.informatio-1d62992fa8a6 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: capitalize;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 27px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* The Columbus Street Bridge War
+Throughout the play there are allusions to the cultural competitiveness between the West Side and the East Side of the Cleveland area, divided by the Cuyahoga River. There does indeed exist a longstanding cultural rivalry between the two sides of th */
+.the-columb-1d629a0103e6 {
+  width: 100%;
+  height: 749px;
+  flex-shrink: 0;
+}
+.the-columb-1d629a0103e6 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.the-columb-1d629a0103e6 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.the-columb-1d629a0103e6 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.the-columb-1d629a0103e6 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 27px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+}
+.the-columb-1d629a0103e6 .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.the-columb-1d629a0103e6 .root-0-paragraph-set-0-paragraph-1-text-0 {
   color: rgba(10, 6, 5, 1);
   text-transform: none;
   
@@ -1174,13 +2580,13 @@ body {
   font-style: normal;
   font-weight: 400;
 }
-.the-columb-148f463fc54a .root-0-paragraph-set-0-paragraph-1 {
+.the-columb-1d629a0103e6 .root-0-paragraph-set-0-paragraph-2 {
   font-size: 0;
   line-height: 1.2;
   margin: 0;
   text-align: left;
 }
-.the-columb-148f463fc54a .root-0-paragraph-set-0-paragraph-1-text-0 {
+.the-columb-1d629a0103e6 .root-0-paragraph-set-0-paragraph-2-text-0 {
   color: rgba(10, 6, 5, 1);
   text-transform: none;
   
@@ -1196,13 +2602,13 @@ body {
   font-style: normal;
   font-weight: 400;
 }
-.the-columb-148f463fc54a .root-0-paragraph-set-0-paragraph-2 {
+.the-columb-1d629a0103e6 .root-0-paragraph-set-0-paragraph-3 {
   font-size: 0;
   line-height: 1.2;
   margin: 0;
   text-align: left;
 }
-.the-columb-148f463fc54a .root-0-paragraph-set-0-paragraph-2-text-0 {
+.the-columb-1d629a0103e6 .root-0-paragraph-set-0-paragraph-3-text-0 {
   color: rgba(10, 6, 5, 1);
   text-transform: none;
   
@@ -1217,34 +2623,13 @@ body {
   font-family: "Helvetica";
   font-style: normal;
   font-weight: 400;
-}
-.the-columb-148f463fc54a .root-0-paragraph-set-0-paragraph-3 {
-  font-size: 0;
-  line-height: 1.2;
-  margin: 0;
-  text-align: left;
-}
-.the-columb-148f463fc54a .root-0-paragraph-set-0-paragraph-3-text-0 {
-  
-  
-  
-  line-break: auto;
-  overflow-wrap: initial;
-  white-space: break-spaces;
-  
-  text-rendering: geometricPrecision;
-  caret-color: black;
-  
-  font-family: "sourcesanspro";
-  
-  
 }
 
 /* Neighborhood Progress Inc.
 Being a city in decline, Cleveland always has the need for development and rebuilding. Neighborhood Progress INC is a nonprofit organization dedicated to diverting the necessary resources to coordinated development projects. It was formed in 1988 by mul */
 .neighborho-148f54fe1acd {
   width: 100%;
-  height: 570px;
+  height: 587px;
   flex-shrink: 0;
 }
 .neighborho-148f54fe1acd .root-0 {
@@ -1283,36 +2668,6 @@ Being a city in decline, Cleveland always has the need for development and rebui
   font-style: normal;
   font-weight: 700;
 }
-.neighborho-148f54fe1acd .root-0-paragraph-set-0-paragraph-0-text-1 {
-  color: rgba(10, 6, 5, 1);
-  text-transform: ;
-  
-  line-break: auto;
-  overflow-wrap: initial;
-  white-space: break-spaces;
-  font-size: 27px;
-  text-rendering: geometricPrecision;
-  caret-color: rgba(10, 6, 5, 1);
-  text-decoration: none;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
-}
-.neighborho-148f54fe1acd .root-0-paragraph-set-0-paragraph-0-text-2 {
-  color: rgba(10, 6, 5, 1);
-  text-transform: ;
-  
-  line-break: auto;
-  overflow-wrap: initial;
-  white-space: break-spaces;
-  font-size: 15px;
-  text-rendering: geometricPrecision;
-  caret-color: rgba(10, 6, 5, 1);
-  text-decoration: none;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
-}
 .neighborho-148f54fe1acd .root-0-paragraph-set-0-paragraph-1 {
   font-size: 0;
   line-height: 1.2;
@@ -1334,12 +2689,33 @@ Being a city in decline, Cleveland always has the need for development and rebui
   font-style: normal;
   font-weight: 400;
 }
+.neighborho-148f54fe1acd .root-0-paragraph-set-0-paragraph-2 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: ;
+}
+.neighborho-148f54fe1acd .root-0-paragraph-set-0-paragraph-2-text-0 {
+  color: rgba(10, 6, 5, 1);
+  text-transform: ;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  font-size: 15px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(10, 6, 5, 1);
+  text-decoration: none;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+}
 
 /* Arcelormittal/Cliffs Info
 Elise worked at the ArcelorMittal Mill, which has since merged with Cleveland Cliffs. In 2016, her company was described by an article on Cleveland.com as being home to “the shooting flame that can easily be seen from I-77 [which] comes from a stack atop */
 .arcelormit-148f009162de {
   width: 100%;
-  height: 375px;
+  height: 393px;
   flex-shrink: 0;
   align-self: start;
 }
@@ -1379,22 +2755,13 @@ Elise worked at the ArcelorMittal Mill, which has since merged with Cleveland Cl
   font-style: normal;
   font-weight: 700;
 }
-.arcelormit-148f009162de .root-0-paragraph-set-0-paragraph-0-text-1 {
-  color: rgba(10, 6, 5, 1);
-  text-transform: ;
-  
-  line-break: auto;
-  overflow-wrap: initial;
-  white-space: break-spaces;
-  font-size: 27px;
-  text-rendering: geometricPrecision;
-  caret-color: rgba(10, 6, 5, 1);
-  text-decoration: none;
-  font-family: "Helvetica";
-  font-style: normal;
-  font-weight: 400;
+.arcelormit-148f009162de .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: ;
 }
-.arcelormit-148f009162de .root-0-paragraph-set-0-paragraph-0-text-2 {
+.arcelormit-148f009162de .root-0-paragraph-set-0-paragraph-1-text-0 {
   color: rgba(10, 6, 5, 1);
   text-transform: ;
   
@@ -1409,13 +2776,13 @@ Elise worked at the ArcelorMittal Mill, which has since merged with Cleveland Cl
   font-style: normal;
   font-weight: 400;
 }
-.arcelormit-148f009162de .root-0-paragraph-set-0-paragraph-1 {
+.arcelormit-148f009162de .root-0-paragraph-set-0-paragraph-2 {
   font-size: 0;
   line-height: 1.2;
   margin: 0;
   text-align: ;
 }
-.arcelormit-148f009162de .root-0-paragraph-set-0-paragraph-1-text-0 {
+.arcelormit-148f009162de .root-0-paragraph-set-0-paragraph-2-text-0 {
   color: rgba(10, 6, 5, 1);
   text-transform: ;
   
@@ -1475,7 +2842,13 @@ Elise worked at the ArcelorMittal Mill, which has since merged with Cleveland Cl
   font-style: normal;
   font-weight: 700;
 }
-.soo-locks-148f5f157d5d .root-0-paragraph-set-0-paragraph-0-text-1 {
+.soo-locks-148f5f157d5d .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: ;
+}
+.soo-locks-148f5f157d5d .root-0-paragraph-set-0-paragraph-1-text-0 {
   color: rgba(0, 0, 0, 1);
   text-transform: ;
   
